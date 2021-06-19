@@ -1,0 +1,12 @@
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/bin/Debug/netcoreapp3.1/ExercicioPOO2.deps.json
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/bin/Debug/netcoreapp3.1/ExercicioPOO2.runtimeconfig.json
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/bin/Debug/netcoreapp3.1/ExercicioPOO2.runtimeconfig.dev.json
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/bin/Debug/netcoreapp3.1/ExercicioPOO2.dll
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/bin/Debug/netcoreapp3.1/ExercicioPOO2.pdb
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/obj/Debug/netcoreapp3.1/ExercicioPOO2.csproj.AssemblyReference.cache
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/obj/Debug/netcoreapp3.1/ExercicioPOO2.AssemblyInfoInputs.cache
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/obj/Debug/netcoreapp3.1/ExercicioPOO2.AssemblyInfo.cs
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/obj/Debug/netcoreapp3.1/ExercicioPOO2.csproj.CoreCompileInputs.cache
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/obj/Debug/netcoreapp3.1/ExercicioPOO2.dll
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/obj/Debug/netcoreapp3.1/ExercicioPOO2.pdb
+/Users/felipe/Projects/ExercicioPOO2/ExercicioPOO2/obj/Debug/netcoreapp3.1/ExercicioPOO2.genruntimeconfig.cache
